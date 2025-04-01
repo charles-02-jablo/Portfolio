@@ -2,7 +2,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import Footer from '@/components/Footer';
 import SocialLinks from '@/components/SocialLinks';
-import StarBackground from '@/components/Starbackground';
+import StarBackground from '@/components/StarBackground';
 import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
